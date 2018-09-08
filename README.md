@@ -1,4 +1,5 @@
 
+![QREDIT-DESKTOP](./dashboard.png)
 
 ## Download
 [Latest Release](https://github.com/Hodlercompany/qredit-desktop/releases)
