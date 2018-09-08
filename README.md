@@ -45,7 +45,6 @@ cd qredit-desktop
 npm install
 
 Then start:
-```bash
 npm start
 ```
 
