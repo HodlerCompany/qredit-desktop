@@ -8,7 +8,6 @@
 * No need to download Qredit blockchain, just sync to the network: launch and use within seconds.
 * View any account from its address (transactions, delegate status and votes).
 * Label any account and add your own contacts.
-* Hardware wallet support : Ledger Nano S.
 * Real-time currency value (updated every 5 min) in USD, EUR, BTC, HKD, JPY, CNY, AUD, GBP, Rubble, ...
 * Autoconnect to a healthy QRT network peer. If the peer is not good anymore, it will automatically find a new one.
 * Send QRT from / to any account.
