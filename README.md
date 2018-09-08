@@ -44,7 +44,7 @@ cd qredit-desktop
 # Install dependencies
 npm install
 
-Then start:
+# Then start:
 npm start
 ```
 
