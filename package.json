@@ -1,6 +1,6 @@
 {
   "name": "QreditClient",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "productName": "QreditClient",
   "description": "Qredit Desktop Wallet",
   "main": "main.js",
