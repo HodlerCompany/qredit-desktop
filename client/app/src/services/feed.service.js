@@ -23,7 +23,7 @@
        * Fetches and parses the RSS of Qredit.io
        */
       fetchBlogEntries () {
-        const rssUrl = 'https://medium.com/feed/qredit'
+        const rssUrl = 'https://medium.com/feed/@qredit'
         return this.fetchAndParse(rssUrl).then(parsed => parsed.feed.entries)
       }
     }
